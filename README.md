@@ -1,5 +1,5 @@
 # No Strongboxes
-Make strongbox drops invisible and automatically discards any strongboxes from your inventory.
+Automatically discards strongboxes from your inventory and makes strongbox drops invisible.
 
 ### Chat commands:
 * **!NoStrongboxes** - Toggles the module off/on
